@@ -21,8 +21,12 @@ The player explores procedurally designed levels, fights enemies, collects items
 - `#` — walls (non-passable)  
 - `H` — healing potion  
 - `W` — weapon (increases your damage)  
-- `X` — exit to next level  
+- `X` — exit to next level 
 
- Controls
+  Commands for linux
+ g++ main.cpp Map.cpp Player.cpp Enemy.cpp Entity.cpp Item.cpp LevelData.cpp Game.cpp
+ ./a.out
+
+  Controls
 
 Use **WASD** to move:
