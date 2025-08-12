@@ -1,0 +1,7 @@
+wikipedia-api
+requests
+Pillow
+pyTelegramBotAPI
+wikipedia
+wikiquote
+pytest
